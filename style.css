@@ -8,7 +8,7 @@
     background-color:rgb(160, 147, 125); 
     }
     .lin{ 
-        float:left; }
+        float:right; }
         li a{ text-align: center; display: block; padding: 14px 16px; color: black;}
 
     label{ text-align: center; font-size: small; font-style: italic;  }
